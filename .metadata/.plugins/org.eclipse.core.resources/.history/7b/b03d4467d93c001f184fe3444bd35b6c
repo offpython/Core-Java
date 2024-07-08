@@ -1,0 +1,21 @@
+
+public class SungjukMgmt {
+
+	public static void main(String[] args) {
+		Student chulsu = new Student();
+		java.util.Scanner sc = new java.util.Scanner(System.in);
+		System.out.print("학번 : ");
+		chulsu.hakbun = sc.nextLine();
+		System.out.print("국어 : ");
+		chulsu.kor = sc.nextInt();
+		System.out.print("영어 : ");
+		chulsu.eng = sc.nextInt();
+		System.out.print("수학 : ");
+		chulsu.math = sc.nextInt()
+		chulsu.tot = chulsu.kor + chulsu.eng + chulsu.math;
+		chulsu.avg = chulsu.tot / (double)3;  // 혹은 3.;
+		chulsu.grade = '\u0000'  //혹은 \0 -> 널값 
+		switch()
+	}
+
+}

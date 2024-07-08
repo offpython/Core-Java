@@ -1,0 +1,13 @@
+public class AlphabetPattern {
+    public static void main(String[] args) {
+        // 외부 for 문: 행을 제어
+        for (char i = 'A'; i <= 'Z'; i++) {
+            // 내부 for 문: 각 행의 열을 제어
+            for (char j = 'A'; j <= i; j++) {
+                System.out.print(j);
+            }
+            // 각 행 출력 후 줄바꿈
+            System.out.println();
+        }
+    }
+}

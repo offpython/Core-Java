@@ -1,0 +1,9 @@
+
+public class VariableDemo {
+
+	public static void main(String[] args) {
+		int kor = 90; //local variable
+
+	}
+
+}
