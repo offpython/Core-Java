@@ -1,9 +1,0 @@
-
-public class VariableDemo {
-	public static void main(String [] args) {
-		String name; //Variable Declaration
-		name = "한지민"; //Assignment
-		String email = "aaa@aaa.com"; //Initialization (d+a)
-		int su =5;
-	}
-}
