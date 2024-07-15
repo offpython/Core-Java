@@ -14,7 +14,7 @@ public class LoopDemo {
 //			i++;
 //		}
 //		System.out.println()
-		// 4의 배수 출력하기
+		// 4의 배수 출력하기 (100이하) 
 		int count = 0;
 		for(int i = 1; i <=100; i++) {
 			if(i%4==0) {
