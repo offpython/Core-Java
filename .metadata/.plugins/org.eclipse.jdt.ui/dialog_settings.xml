@@ -44,7 +44,7 @@
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="649"/>
-		<item key="DIALOG_Y_ORIGIN" value="482"/>
+		<item key="DIALOG_Y_ORIGIN" value="246"/>
 		<item key="DIALOG_WIDTH" value="696"/>
 		<item key="DIALOG_HEIGHT" value="783"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -150,6 +150,13 @@
 	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
 		<item key="ShowStatusLine" value="true"/>
 		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="909"/>
+			<item key="DIALOG_Y_ORIGIN" value="321"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
 	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="136"/>
@@ -214,5 +221,12 @@
 		<item key="CASE_SENSITIVE" value="false"/>
 		<item key="INCLUDE_MASK" value="11"/>
 		<item key="HISTORY_SIZE" value="0"/>
+	</section>
+	<section name="NewAnnotationCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="876"/>
+		<item key="DIALOG_Y_ORIGIN" value="177"/>
+		<item key="DIALOG_WIDTH" value="667"/>
+		<item key="DIALOG_HEIGHT" value="716"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
