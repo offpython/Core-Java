@@ -24,7 +24,7 @@ public class Output {
 	private void labelPrint() {
 		System.out.println("                               <<병원관리 프로그램>> ");
 		System.out.println("----------------------------------------------------------------------------------------");
-		System.out.println("\t번호\t     진찰부서\t\t   진찰비\t   입원비\t    진료비");
+		System.out.println("번호\t 진찰부서\t\t 진찰비\t\t 입원비\t\t 진료비");
 		System.out.println("----------------------------------------------------------------------------------------");
 	}
 
